@@ -1,0 +1,16 @@
+C:\Users\13854\Code\book\obj\Debug\net5.0\book.csproj.AssemblyReference.cache
+C:\Users\13854\Code\book\obj\Debug\net5.0\book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13854\Code\book\obj\Debug\net5.0\book.AssemblyInfoInputs.cache
+C:\Users\13854\Code\book\obj\Debug\net5.0\book.AssemblyInfo.cs
+C:\Users\13854\Code\book\obj\Debug\net5.0\book.csproj.CoreCompileInputs.cache
+C:\Users\13854\Code\book\bin\Debug\net5.0\book.exe
+C:\Users\13854\Code\book\bin\Debug\net5.0\book.deps.json
+C:\Users\13854\Code\book\bin\Debug\net5.0\book.runtimeconfig.json
+C:\Users\13854\Code\book\bin\Debug\net5.0\book.runtimeconfig.dev.json
+C:\Users\13854\Code\book\bin\Debug\net5.0\book.dll
+C:\Users\13854\Code\book\bin\Debug\net5.0\ref\book.dll
+C:\Users\13854\Code\book\bin\Debug\net5.0\book.pdb
+C:\Users\13854\Code\book\obj\Debug\net5.0\book.dll
+C:\Users\13854\Code\book\obj\Debug\net5.0\ref\book.dll
+C:\Users\13854\Code\book\obj\Debug\net5.0\book.pdb
+C:\Users\13854\Code\book\obj\Debug\net5.0\book.genruntimeconfig.cache

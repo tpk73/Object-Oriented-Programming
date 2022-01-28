@@ -1,0 +1,16 @@
+C:\Users\13854\Code\Animal\obj\Debug\net5.0\animal.csproj.AssemblyReference.cache
+C:\Users\13854\Code\Animal\obj\Debug\net5.0\animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13854\Code\Animal\obj\Debug\net5.0\animal.AssemblyInfoInputs.cache
+C:\Users\13854\Code\Animal\obj\Debug\net5.0\animal.AssemblyInfo.cs
+C:\Users\13854\Code\Animal\obj\Debug\net5.0\animal.csproj.CoreCompileInputs.cache
+C:\Users\13854\Code\Animal\bin\Debug\net5.0\animal.exe
+C:\Users\13854\Code\Animal\bin\Debug\net5.0\animal.deps.json
+C:\Users\13854\Code\Animal\bin\Debug\net5.0\animal.runtimeconfig.json
+C:\Users\13854\Code\Animal\bin\Debug\net5.0\animal.runtimeconfig.dev.json
+C:\Users\13854\Code\Animal\bin\Debug\net5.0\animal.dll
+C:\Users\13854\Code\Animal\bin\Debug\net5.0\ref\animal.dll
+C:\Users\13854\Code\Animal\bin\Debug\net5.0\animal.pdb
+C:\Users\13854\Code\Animal\obj\Debug\net5.0\animal.dll
+C:\Users\13854\Code\Animal\obj\Debug\net5.0\ref\animal.dll
+C:\Users\13854\Code\Animal\obj\Debug\net5.0\animal.pdb
+C:\Users\13854\Code\Animal\obj\Debug\net5.0\animal.genruntimeconfig.cache

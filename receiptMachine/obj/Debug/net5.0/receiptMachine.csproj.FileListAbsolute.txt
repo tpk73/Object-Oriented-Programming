@@ -1,0 +1,16 @@
+C:\Users\13854\Code\receiptMachine\bin\Debug\net5.0\receiptMachine.exe
+C:\Users\13854\Code\receiptMachine\bin\Debug\net5.0\receiptMachine.deps.json
+C:\Users\13854\Code\receiptMachine\bin\Debug\net5.0\receiptMachine.runtimeconfig.json
+C:\Users\13854\Code\receiptMachine\bin\Debug\net5.0\receiptMachine.runtimeconfig.dev.json
+C:\Users\13854\Code\receiptMachine\bin\Debug\net5.0\receiptMachine.dll
+C:\Users\13854\Code\receiptMachine\bin\Debug\net5.0\ref\receiptMachine.dll
+C:\Users\13854\Code\receiptMachine\bin\Debug\net5.0\receiptMachine.pdb
+C:\Users\13854\Code\receiptMachine\obj\Debug\net5.0\receiptMachine.csproj.AssemblyReference.cache
+C:\Users\13854\Code\receiptMachine\obj\Debug\net5.0\receiptMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13854\Code\receiptMachine\obj\Debug\net5.0\receiptMachine.AssemblyInfoInputs.cache
+C:\Users\13854\Code\receiptMachine\obj\Debug\net5.0\receiptMachine.AssemblyInfo.cs
+C:\Users\13854\Code\receiptMachine\obj\Debug\net5.0\receiptMachine.csproj.CoreCompileInputs.cache
+C:\Users\13854\Code\receiptMachine\obj\Debug\net5.0\receiptMachine.dll
+C:\Users\13854\Code\receiptMachine\obj\Debug\net5.0\ref\receiptMachine.dll
+C:\Users\13854\Code\receiptMachine\obj\Debug\net5.0\receiptMachine.pdb
+C:\Users\13854\Code\receiptMachine\obj\Debug\net5.0\receiptMachine.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\13854\Code\frownFace\bin\Debug\net5.0\frownFace.exe
+C:\Users\13854\Code\frownFace\bin\Debug\net5.0\frownFace.deps.json
+C:\Users\13854\Code\frownFace\bin\Debug\net5.0\frownFace.runtimeconfig.json
+C:\Users\13854\Code\frownFace\bin\Debug\net5.0\frownFace.runtimeconfig.dev.json
+C:\Users\13854\Code\frownFace\bin\Debug\net5.0\frownFace.dll
+C:\Users\13854\Code\frownFace\bin\Debug\net5.0\ref\frownFace.dll
+C:\Users\13854\Code\frownFace\bin\Debug\net5.0\frownFace.pdb
+C:\Users\13854\Code\frownFace\obj\Debug\net5.0\frownFace.csproj.AssemblyReference.cache
+C:\Users\13854\Code\frownFace\obj\Debug\net5.0\frownFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13854\Code\frownFace\obj\Debug\net5.0\frownFace.AssemblyInfoInputs.cache
+C:\Users\13854\Code\frownFace\obj\Debug\net5.0\frownFace.AssemblyInfo.cs
+C:\Users\13854\Code\frownFace\obj\Debug\net5.0\frownFace.csproj.CoreCompileInputs.cache
+C:\Users\13854\Code\frownFace\obj\Debug\net5.0\frownFace.dll
+C:\Users\13854\Code\frownFace\obj\Debug\net5.0\ref\frownFace.dll
+C:\Users\13854\Code\frownFace\obj\Debug\net5.0\frownFace.pdb
+C:\Users\13854\Code\frownFace\obj\Debug\net5.0\frownFace.genruntimeconfig.cache

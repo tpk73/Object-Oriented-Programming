@@ -1,0 +1,16 @@
+C:\Users\13854\Code\beFruitful\obj\Debug\net5.0\beFruitFul.csproj.AssemblyReference.cache
+C:\Users\13854\Code\beFruitful\obj\Debug\net5.0\beFruitFul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13854\Code\beFruitful\obj\Debug\net5.0\beFruitFul.AssemblyInfoInputs.cache
+C:\Users\13854\Code\beFruitful\obj\Debug\net5.0\beFruitFul.AssemblyInfo.cs
+C:\Users\13854\Code\beFruitful\obj\Debug\net5.0\beFruitFul.csproj.CoreCompileInputs.cache
+C:\Users\13854\Code\beFruitful\bin\Debug\net5.0\beFruitFul.exe
+C:\Users\13854\Code\beFruitful\bin\Debug\net5.0\beFruitFul.deps.json
+C:\Users\13854\Code\beFruitful\bin\Debug\net5.0\beFruitFul.runtimeconfig.json
+C:\Users\13854\Code\beFruitful\bin\Debug\net5.0\beFruitFul.runtimeconfig.dev.json
+C:\Users\13854\Code\beFruitful\bin\Debug\net5.0\beFruitFul.dll
+C:\Users\13854\Code\beFruitful\bin\Debug\net5.0\ref\beFruitFul.dll
+C:\Users\13854\Code\beFruitful\bin\Debug\net5.0\beFruitFul.pdb
+C:\Users\13854\Code\beFruitful\obj\Debug\net5.0\beFruitFul.dll
+C:\Users\13854\Code\beFruitful\obj\Debug\net5.0\ref\beFruitFul.dll
+C:\Users\13854\Code\beFruitful\obj\Debug\net5.0\beFruitFul.pdb
+C:\Users\13854\Code\beFruitful\obj\Debug\net5.0\beFruitFul.genruntimeconfig.cache

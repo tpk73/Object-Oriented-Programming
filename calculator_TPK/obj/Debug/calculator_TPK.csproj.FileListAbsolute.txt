@@ -1,0 +1,5 @@
+C:\Users\13854\Code\CalculatorGUI\calculator_TPK\obj\Debug\calculator_TPK.csproj.AssemblyReference.cache
+C:\Users\13854\Code\CalculatorGUI\calculator_TPK\obj\Debug\calculator_TPK.Form1.resources
+C:\Users\13854\Code\CalculatorGUI\calculator_TPK\obj\Debug\calculator_TPK.Properties.Resources.resources
+C:\Users\13854\Code\CalculatorGUI\calculator_TPK\obj\Debug\calculator_TPK.csproj.GenerateResource.cache
+C:\Users\13854\Code\CalculatorGUI\calculator_TPK\obj\Debug\calculator_TPK.csproj.CoreCompileInputs.cache

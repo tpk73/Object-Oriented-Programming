@@ -1,0 +1,16 @@
+C:\Users\13854\Code\Taxes\bin\Debug\net5.0\taxes.exe
+C:\Users\13854\Code\Taxes\bin\Debug\net5.0\taxes.deps.json
+C:\Users\13854\Code\Taxes\bin\Debug\net5.0\taxes.runtimeconfig.json
+C:\Users\13854\Code\Taxes\bin\Debug\net5.0\taxes.runtimeconfig.dev.json
+C:\Users\13854\Code\Taxes\bin\Debug\net5.0\taxes.dll
+C:\Users\13854\Code\Taxes\bin\Debug\net5.0\ref\taxes.dll
+C:\Users\13854\Code\Taxes\bin\Debug\net5.0\taxes.pdb
+C:\Users\13854\Code\Taxes\obj\Debug\net5.0\taxes.csproj.AssemblyReference.cache
+C:\Users\13854\Code\Taxes\obj\Debug\net5.0\taxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13854\Code\Taxes\obj\Debug\net5.0\taxes.AssemblyInfoInputs.cache
+C:\Users\13854\Code\Taxes\obj\Debug\net5.0\taxes.AssemblyInfo.cs
+C:\Users\13854\Code\Taxes\obj\Debug\net5.0\taxes.csproj.CoreCompileInputs.cache
+C:\Users\13854\Code\Taxes\obj\Debug\net5.0\taxes.dll
+C:\Users\13854\Code\Taxes\obj\Debug\net5.0\ref\taxes.dll
+C:\Users\13854\Code\Taxes\obj\Debug\net5.0\taxes.pdb
+C:\Users\13854\Code\Taxes\obj\Debug\net5.0\taxes.genruntimeconfig.cache

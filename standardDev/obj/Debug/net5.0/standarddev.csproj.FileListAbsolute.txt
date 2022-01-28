@@ -1,0 +1,16 @@
+C:\Users\13854\Code\standardDev\obj\Debug\net5.0\standarddev.csproj.AssemblyReference.cache
+C:\Users\13854\Code\standardDev\obj\Debug\net5.0\standarddev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13854\Code\standardDev\obj\Debug\net5.0\standarddev.AssemblyInfoInputs.cache
+C:\Users\13854\Code\standardDev\obj\Debug\net5.0\standarddev.AssemblyInfo.cs
+C:\Users\13854\Code\standardDev\obj\Debug\net5.0\standarddev.csproj.CoreCompileInputs.cache
+C:\Users\13854\Code\standardDev\bin\Debug\net5.0\standarddev.exe
+C:\Users\13854\Code\standardDev\bin\Debug\net5.0\standarddev.deps.json
+C:\Users\13854\Code\standardDev\bin\Debug\net5.0\standarddev.runtimeconfig.json
+C:\Users\13854\Code\standardDev\bin\Debug\net5.0\standarddev.runtimeconfig.dev.json
+C:\Users\13854\Code\standardDev\bin\Debug\net5.0\standarddev.dll
+C:\Users\13854\Code\standardDev\bin\Debug\net5.0\ref\standarddev.dll
+C:\Users\13854\Code\standardDev\bin\Debug\net5.0\standarddev.pdb
+C:\Users\13854\Code\standardDev\obj\Debug\net5.0\standarddev.dll
+C:\Users\13854\Code\standardDev\obj\Debug\net5.0\ref\standarddev.dll
+C:\Users\13854\Code\standardDev\obj\Debug\net5.0\standarddev.pdb
+C:\Users\13854\Code\standardDev\obj\Debug\net5.0\standarddev.genruntimeconfig.cache

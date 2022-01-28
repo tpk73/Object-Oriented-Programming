@@ -1,0 +1,16 @@
+C:\Users\13854\Code\dateOne\obj\Debug\net5.0\dateone.csproj.AssemblyReference.cache
+C:\Users\13854\Code\dateOne\obj\Debug\net5.0\dateone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13854\Code\dateOne\obj\Debug\net5.0\dateone.AssemblyInfoInputs.cache
+C:\Users\13854\Code\dateOne\obj\Debug\net5.0\dateone.AssemblyInfo.cs
+C:\Users\13854\Code\dateOne\obj\Debug\net5.0\dateone.csproj.CoreCompileInputs.cache
+C:\Users\13854\Code\dateOne\bin\Debug\net5.0\dateone.exe
+C:\Users\13854\Code\dateOne\bin\Debug\net5.0\dateone.deps.json
+C:\Users\13854\Code\dateOne\bin\Debug\net5.0\dateone.runtimeconfig.json
+C:\Users\13854\Code\dateOne\bin\Debug\net5.0\dateone.runtimeconfig.dev.json
+C:\Users\13854\Code\dateOne\bin\Debug\net5.0\dateone.dll
+C:\Users\13854\Code\dateOne\bin\Debug\net5.0\ref\dateone.dll
+C:\Users\13854\Code\dateOne\bin\Debug\net5.0\dateone.pdb
+C:\Users\13854\Code\dateOne\obj\Debug\net5.0\dateone.dll
+C:\Users\13854\Code\dateOne\obj\Debug\net5.0\ref\dateone.dll
+C:\Users\13854\Code\dateOne\obj\Debug\net5.0\dateone.pdb
+C:\Users\13854\Code\dateOne\obj\Debug\net5.0\dateone.genruntimeconfig.cache

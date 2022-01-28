@@ -1,0 +1,14 @@
+C:\Users\13854\Code\dateTwo\DateTwo\obj\Debug\netcoreapp3.1\DateTwo.csproj.AssemblyReference.cache
+C:\Users\13854\Code\dateTwo\DateTwo\obj\Debug\netcoreapp3.1\DateTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13854\Code\dateTwo\DateTwo\obj\Debug\netcoreapp3.1\DateTwo.AssemblyInfoInputs.cache
+C:\Users\13854\Code\dateTwo\DateTwo\obj\Debug\netcoreapp3.1\DateTwo.AssemblyInfo.cs
+C:\Users\13854\Code\dateTwo\DateTwo\obj\Debug\netcoreapp3.1\DateTwo.csproj.CoreCompileInputs.cache
+C:\Users\13854\Code\dateTwo\DateTwo\bin\Debug\netcoreapp3.1\DateTwo.exe
+C:\Users\13854\Code\dateTwo\DateTwo\bin\Debug\netcoreapp3.1\DateTwo.deps.json
+C:\Users\13854\Code\dateTwo\DateTwo\bin\Debug\netcoreapp3.1\DateTwo.runtimeconfig.json
+C:\Users\13854\Code\dateTwo\DateTwo\bin\Debug\netcoreapp3.1\DateTwo.runtimeconfig.dev.json
+C:\Users\13854\Code\dateTwo\DateTwo\bin\Debug\netcoreapp3.1\DateTwo.dll
+C:\Users\13854\Code\dateTwo\DateTwo\bin\Debug\netcoreapp3.1\DateTwo.pdb
+C:\Users\13854\Code\dateTwo\DateTwo\obj\Debug\netcoreapp3.1\DateTwo.dll
+C:\Users\13854\Code\dateTwo\DateTwo\obj\Debug\netcoreapp3.1\DateTwo.pdb
+C:\Users\13854\Code\dateTwo\DateTwo\obj\Debug\netcoreapp3.1\DateTwo.genruntimeconfig.cache
